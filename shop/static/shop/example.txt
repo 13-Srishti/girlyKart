@@ -1,0 +1,4 @@
+hey there...
+I'm a static file.. 
+
+kindly access me in your index.html of shop
